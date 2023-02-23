@@ -10,3 +10,4 @@ void print_triangle(int size);
 void _putchar(char c);
 int _isdigit(int c);
 void print_number(int n);
+void print_number(int n);
